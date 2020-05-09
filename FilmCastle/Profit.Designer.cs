@@ -161,6 +161,7 @@
             this.MaximumSize = new System.Drawing.Size(528, 314);
             this.MinimumSize = new System.Drawing.Size(528, 314);
             this.Name = "Profit";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Profit";
             this.Load += new System.EventHandler(this.Profit_Load);
             ((System.ComponentModel.ISupportInitialize)(this.chart)).EndInit();
