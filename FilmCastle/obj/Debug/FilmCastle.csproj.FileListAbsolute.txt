@@ -1,0 +1,10 @@
+C:\Users\yemal\OneDrive\Desktop\FilmCastle\bin\Debug\FilmCastle.exe.config
+C:\Users\yemal\OneDrive\Desktop\FilmCastle\bin\Debug\FilmCastle.exe
+C:\Users\yemal\OneDrive\Desktop\FilmCastle\bin\Debug\FilmCastle.pdb
+C:\Users\yemal\OneDrive\Desktop\FilmCastle\obj\Debug\FilmCastle.csprojAssemblyReference.cache
+C:\Users\yemal\OneDrive\Desktop\FilmCastle\obj\Debug\FilmCastle.Form1.resources
+C:\Users\yemal\OneDrive\Desktop\FilmCastle\obj\Debug\FilmCastle.Properties.Resources.resources
+C:\Users\yemal\OneDrive\Desktop\FilmCastle\obj\Debug\FilmCastle.csproj.GenerateResource.cache
+C:\Users\yemal\OneDrive\Desktop\FilmCastle\obj\Debug\FilmCastle.exe
+C:\Users\yemal\OneDrive\Desktop\FilmCastle\obj\Debug\FilmCastle.pdb
+C:\Users\yemal\OneDrive\Desktop\FilmCastle\obj\Debug\FilmCastle.Profit.resources
